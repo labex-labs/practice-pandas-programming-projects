@@ -6,11 +6,11 @@
 
 Pandas is a Python library for data analysis. It provides high-performance, easy-to-use data structures and data analysis tools. In this skill tree, you'll learn how to use Pandas to analyze data in Python.
 
-|   Index | Name                                    | Level   | Project Link                                                                                              |
-|---------|-----------------------------------------|---------|-----------------------------------------------------------------------------------------------------------|
-|       1 | Credit Card Holder Risk Prediction      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-credit-card-holder-risk-prediction)                   |
-|       2 | Implementation of Polynomial Regression | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-polynomial-regression-implementation-and-application) |
-|       3 | COVID-19 Data Analysis with Python      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-covid-19-data-statistics)                             |
+|   Index | Name                                                                                                                             | Level   | Project Link                                                                                     |
+|---------|----------------------------------------------------------------------------------------------------------------------------------|---------|--------------------------------------------------------------------------------------------------|
+|       1 | [Credit Card Holder Risk Prediction](https://labex.io/courses/project-credit-card-holder-risk-prediction)                        | ★☆☆     | [🚀 Start](https://labex.io/courses/project-credit-card-holder-risk-prediction)                   |
+|       2 | [Implementation of Polynomial Regression](https://labex.io/courses/project-polynomial-regression-implementation-and-application) | ★☆☆     | [🚀 Start](https://labex.io/courses/project-polynomial-regression-implementation-and-application) |
+|       3 | [COVID-19 Data Analysis with Python](https://labex.io/courses/project-covid-19-data-statistics)                                  | ★☆☆     | [🚀 Start](https://labex.io/courses/project-covid-19-data-statistics)                             |
 
 ## More Projects
 
