@@ -4,7 +4,7 @@
 <img width="128px" src="https://file.labex.io/path/qhqKKAjZr3K5.png">
 </div>
 
-Pandas is a Python library for data analysis. It provides high-performance, easy-to-use data structures and data analysis tools. In this skill tree, you'll learn how to use Pandas to analyze data in Python.
+Pandas is essential for data manipulation and analysis in Python. This Skill Tree provides a comprehensive learning path for mastering Pandas. Ideal for data science beginners, it offers a clear roadmap to understand DataFrames, data cleaning, and analysis techniques. Through hands-on, non-video courses and practical exercises in an interactive data science playground, you'll gain real-world experience in processing and analyzing complex datasets.
 
 |   Index | Name                                                                                                                             | Level   | Project Link                                                                                     |
 |---------|----------------------------------------------------------------------------------------------------------------------------------|---------|--------------------------------------------------------------------------------------------------|
@@ -15,15 +15,15 @@ Pandas is a Python library for data analysis. It provides high-performance, easy
 ## More Projects
 
 - [Linux Programming Projects](https://github.com/labex-labs/practice-linux-programming-projects)
-- [Python Programming Projects](https://github.com/labex-labs/practice-python-programming-projects)
 - [DevOps Programming Projects](https://github.com/labex-labs/practice-devops-programming-projects)
-- [Web Development Programming Projects](https://github.com/labex-labs/practice-web-development-programming-projects)
-- [Data Science Programming Projects](https://github.com/labex-labs/practice-data-science-programming-projects)
-- [Big Data Programming Projects](https://github.com/labex-labs/practice-bigdata-programming-projects)
-- [Cyber Security Programming Projects](https://github.com/labex-labs/practice-cysec-programming-projects)
-- [Machine Learning Programming Projects](https://github.com/labex-labs/practice-ml-programming-projects)
+- [Cybersecurity Programming Projects](https://github.com/labex-labs/practice-cybersecurity-programming-projects)
+- [Python Programming Projects](https://github.com/labex-labs/practice-python-programming-projects)
 - [Docker Programming Projects](https://github.com/labex-labs/practice-docker-programming-projects)
+- [Data Science Programming Projects](https://github.com/labex-labs/practice-data-science-programming-projects)
 - [Kubernetes Programming Projects](https://github.com/labex-labs/practice-kubernetes-programming-projects)
+- [Big Data Programming Projects](https://github.com/labex-labs/practice-bigdata-programming-projects)
+- [Machine Learning Programming Projects](https://github.com/labex-labs/practice-ml-programming-projects)
+- [Web Development Programming Projects](https://github.com/labex-labs/practice-web-development-programming-projects)
 - [Git Programming Projects](https://github.com/labex-labs/practice-git-programming-projects)
 - [Ansible Programming Projects](https://github.com/labex-labs/practice-ansible-programming-projects)
 - [Jenkins Programming Projects](https://github.com/labex-labs/practice-jenkins-programming-projects)
@@ -33,10 +33,7 @@ Pandas is a Python library for data analysis. It provides high-performance, easy
 - [C++ Programming Projects](https://github.com/labex-labs/practice-cpp-programming-projects)
 - [C Programming Projects](https://github.com/labex-labs/practice-c-programming-projects)
 - [MySQL Programming Projects](https://github.com/labex-labs/practice-mysql-programming-projects)
-- [Go Programming Projects](https://github.com/labex-labs/practice-go-programming-projects)
-- [Rust Programming Projects](https://github.com/labex-labs/practice-rust-programming-projects)
-- [OpenCV Programming Projects](https://github.com/labex-labs/practice-opencv-programming-projects)
-- [Django Programming Projects](https://github.com/labex-labs/practice-django-programming-projects)
+- [Golang Programming Projects](https://github.com/labex-labs/practice-go-programming-projects)
 - [Pandas Programming Projects](https://github.com/labex-labs/practice-pandas-programming-projects)
 - [NumPy Programming Projects](https://github.com/labex-labs/practice-numpy-programming-projects)
 - [scikit-learn Programming Projects](https://github.com/labex-labs/practice-sklearn-programming-projects)
@@ -46,7 +43,6 @@ Pandas is a Python library for data analysis. It provides high-performance, easy
 - [CSS Programming Projects](https://github.com/labex-labs/practice-css-programming-projects)
 - [JavaScript Programming Projects](https://github.com/labex-labs/practice-javascript-programming-projects)
 - [React Programming Projects](https://github.com/labex-labs/practice-react-programming-projects)
-- [jQuery Programming Projects](https://github.com/labex-labs/practice-jquery-programming-projects)
 
 
 ## Other Lists
