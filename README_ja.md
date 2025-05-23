@@ -14,13 +14,13 @@ Pandas は Python におけるデータ操作と分析に不可欠です。こ�
 
 |   インデックス | 名前                                                                                                         | 難易度   | 練習                                                                                                      |
 |----------------|--------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------------------------------|
-|              1 | [クレジットカード保有者のリスク予測](https://labex.io/ja/courses/project-credit-card-holder-risk-prediction) | ★☆☆      | [🚀 ラボを開始](https://labex.io/ja/courses/project-credit-card-holder-risk-prediction)                   |
-|              2 | [多項式回帰の実装](https://labex.io/ja/courses/project-polynomial-regression-implementation-and-application) | ★☆☆      | [🚀 ラボを開始](https://labex.io/ja/courses/project-polynomial-regression-implementation-and-application) |
-|              3 | [Python を使った COVID-19 データ分析](https://labex.io/ja/courses/project-covid-19-data-statistics)          | ★☆☆      | [🚀 ラボを開始](https://labex.io/ja/courses/project-covid-19-data-statistics)                             |
+|              1 | [クレジットカード保有者のリスク予測](https://labex.io/ja/courses/project-credit-card-holder-risk-prediction) | 初級     | [🚀 ラボを開始](https://labex.io/ja/courses/project-credit-card-holder-risk-prediction)                   |
+|              2 | [多項式回帰の実装](https://labex.io/ja/courses/project-polynomial-regression-implementation-and-application) | 初級     | [🚀 ラボを開始](https://labex.io/ja/courses/project-polynomial-regression-implementation-and-application) |
+|              3 | [Python を使った COVID-19 データ分析](https://labex.io/ja/courses/project-covid-19-data-statistics)          | 初級     | [🚀 ラボを開始](https://labex.io/ja/courses/project-covid-19-data-statistics)                             |
 
 ## その他
 
 - 🔗 [Pandas 詳細について](https://labex.io/ja/skilltrees/pandas)
-- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [素晴らしいプログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [素晴らしいプログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
 
