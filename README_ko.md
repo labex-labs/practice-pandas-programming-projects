@@ -14,13 +14,13 @@ Pandas 는 Python 에서 데이터 조작 및 분석에 필수적입니다. 이 
 
 |   인덱스 | 이름                                                                                                       | 난이도   | 연습                                                                                                     |
 |----------|------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------------------------------|
-|        1 | [신용카드 소지자 위험 예측](https://labex.io/ko/courses/project-credit-card-holder-risk-prediction)        | ★☆☆      | [🚀 실습 시작](https://labex.io/ko/courses/project-credit-card-holder-risk-prediction)                   |
-|        2 | [다항 회귀 구현](https://labex.io/ko/courses/project-polynomial-regression-implementation-and-application) | ★☆☆      | [🚀 실습 시작](https://labex.io/ko/courses/project-polynomial-regression-implementation-and-application) |
-|        3 | [Python 을 이용한 COVID-19 데이터 분석](https://labex.io/ko/courses/project-covid-19-data-statistics)      | ★☆☆      | [🚀 실습 시작](https://labex.io/ko/courses/project-covid-19-data-statistics)                             |
+|        1 | [신용카드 소지자 위험 예측](https://labex.io/ko/courses/project-credit-card-holder-risk-prediction)        | 초급     | [🚀 실습 시작](https://labex.io/ko/courses/project-credit-card-holder-risk-prediction)                   |
+|        2 | [다항 회귀 구현](https://labex.io/ko/courses/project-polynomial-regression-implementation-and-application) | 초급     | [🚀 실습 시작](https://labex.io/ko/courses/project-polynomial-regression-implementation-and-application) |
+|        3 | [Python 을 이용한 COVID-19 데이터 분석](https://labex.io/ko/courses/project-covid-19-data-statistics)      | 초급     | [🚀 실습 시작](https://labex.io/ko/courses/project-covid-19-data-statistics)                             |
 
 ## 더 보기
 
 - 🔗 [Pandas 자세히 알아보기](https://labex.io/ko/skilltrees/pandas)
-- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [멋진 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [멋진 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
 
