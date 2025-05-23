@@ -12,15 +12,15 @@ Pandas is crucial for data manipulation and analysis in Python. This Skill Tree 
 
 ## Exercises
 
-|   Index | Name                                                                                                                                | Difficulty   | Practice                                                                                                 |
-|---------|-------------------------------------------------------------------------------------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------|
-|       1 | [Credit Card Holder Risk Prediction](https://labex.io/en/courses/project-credit-card-holder-risk-prediction)                        | ★☆☆          | [🚀 Start Lab](https://labex.io/en/courses/project-credit-card-holder-risk-prediction)                   |
-|       2 | [Implementation of Polynomial Regression](https://labex.io/en/courses/project-polynomial-regression-implementation-and-application) | ★☆☆          | [🚀 Start Lab](https://labex.io/en/courses/project-polynomial-regression-implementation-and-application) |
-|       3 | [COVID-19 Data Analysis with Python](https://labex.io/en/courses/project-covid-19-data-statistics)                                  | ★☆☆          | [🚀 Start Lab](https://labex.io/en/courses/project-covid-19-data-statistics)                             |
+|   Index | Name                                                                                                                             | Difficulty   | Practice                                                                                              |
+|---------|----------------------------------------------------------------------------------------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------|
+|       1 | [Credit Card Holder Risk Prediction](https://labex.io/courses/project-credit-card-holder-risk-prediction)                        | Beginner     | [🚀 Start Lab](https://labex.io/courses/project-credit-card-holder-risk-prediction)                   |
+|       2 | [Implementation of Polynomial Regression](https://labex.io/courses/project-polynomial-regression-implementation-and-application) | Beginner     | [🚀 Start Lab](https://labex.io/courses/project-polynomial-regression-implementation-and-application) |
+|       3 | [COVID-19 Data Analysis with Python](https://labex.io/courses/project-covid-19-data-statistics)                                  | Beginner     | [🚀 Start Lab](https://labex.io/courses/project-covid-19-data-statistics)                             |
 
 ## More
 
-- 🔗 [Pandas Learn more about](https://labex.io/en/skilltrees/pandas)
+- 🔗 [Pandas Learn more about](https://labex.io/skilltrees/pandas)
 - 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
 
