@@ -14,13 +14,13 @@ Pandas ist entscheidend für die Datenmanipulation und -analyse in Python. Diese
 
 |   Index | Name                                                                                                                              | Schwierigkeit   | Übung                                                                                                        |
 |---------|-----------------------------------------------------------------------------------------------------------------------------------|-----------------|--------------------------------------------------------------------------------------------------------------|
-|       1 | [Risikoprädiktion für Kreditkarteninhaber](https://labex.io/de/courses/project-credit-card-holder-risk-prediction)                | ★☆☆             | [🚀 Labor Starten](https://labex.io/de/courses/project-credit-card-holder-risk-prediction)                   |
-|       2 | [Implementierung der Polynomregression](https://labex.io/de/courses/project-polynomial-regression-implementation-and-application) | ★☆☆             | [🚀 Labor Starten](https://labex.io/de/courses/project-polynomial-regression-implementation-and-application) |
-|       3 | [COVID-19-Datenanalyse mit Python](https://labex.io/de/courses/project-covid-19-data-statistics)                                  | ★☆☆             | [🚀 Labor Starten](https://labex.io/de/courses/project-covid-19-data-statistics)                             |
+|       1 | [Risikoprädiktion für Kreditkarteninhaber](https://labex.io/de/courses/project-credit-card-holder-risk-prediction)                | Anfänger        | [🚀 Labor Starten](https://labex.io/de/courses/project-credit-card-holder-risk-prediction)                   |
+|       2 | [Implementierung der Polynomregression](https://labex.io/de/courses/project-polynomial-regression-implementation-and-application) | Anfänger        | [🚀 Labor Starten](https://labex.io/de/courses/project-polynomial-regression-implementation-and-application) |
+|       3 | [COVID-19-Datenanalyse mit Python](https://labex.io/de/courses/project-covid-19-data-statistics)                                  | Anfänger        | [🚀 Labor Starten](https://labex.io/de/courses/project-covid-19-data-statistics)                             |
 
 ## Mehr
 
 - 🔗 [Pandas Erfahren Sie mehr über](https://labex.io/de/skilltrees/pandas)
-- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Großartige Programmierprojekte](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Großartige Programmierungskurse](https://github.com/labex-labs/awesome-programming-courses)
 
