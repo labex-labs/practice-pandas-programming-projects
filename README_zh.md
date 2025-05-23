@@ -14,13 +14,13 @@ Pandas 是 Python 中进行数据处理和分析的关键工具。本技能树�
 
 |   序号 | 名称                                                                                                         | 难度   | 练习                                                                                                    |
 |--------|--------------------------------------------------------------------------------------------------------------|--------|---------------------------------------------------------------------------------------------------------|
-|      1 | [信用卡持卡人风险预测](https://labex.io/zh/courses/project-credit-card-holder-risk-prediction)               | ★☆☆    | [🚀 开始实验](https://labex.io/zh/courses/project-credit-card-holder-risk-prediction)                   |
-|      2 | [多项式回归的实现](https://labex.io/zh/courses/project-polynomial-regression-implementation-and-application) | ★☆☆    | [🚀 开始实验](https://labex.io/zh/courses/project-polynomial-regression-implementation-and-application) |
-|      3 | [使用 Python 进行 COVID-19 数据分析](https://labex.io/zh/courses/project-covid-19-data-statistics)           | ★☆☆    | [🚀 开始实验](https://labex.io/zh/courses/project-covid-19-data-statistics)                             |
+|      1 | [信用卡持卡人风险预测](https://labex.io/zh/courses/project-credit-card-holder-risk-prediction)               | 初级   | [🚀 开始实验](https://labex.io/zh/courses/project-credit-card-holder-risk-prediction)                   |
+|      2 | [多项式回归的实现](https://labex.io/zh/courses/project-polynomial-regression-implementation-and-application) | 初级   | [🚀 开始实验](https://labex.io/zh/courses/project-polynomial-regression-implementation-and-application) |
+|      3 | [使用 Python 进行 COVID-19 数据分析](https://labex.io/zh/courses/project-covid-19-data-statistics)           | 初级   | [🚀 开始实验](https://labex.io/zh/courses/project-covid-19-data-statistics)                             |
 
 ## 更多
 
 - 🔗 [Pandas 了解更多](https://labex.io/zh/skilltrees/pandas)
-- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [精选编程项目](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [精选编程课程](https://github.com/labex-labs/awesome-programming-courses)
 
