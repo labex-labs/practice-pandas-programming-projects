@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/qhqKKAjZr3K5.png">
 </div>
 
-Pandas ist entscheidend für die Datenmanipulation und -analyse in Python. Dieser Skill Tree bietet einen umfassenden Lernpfad, um Pandas zu meistern. Er ist ideal für Anfänger in der Datenwissenschaft und bietet eine klare Roadmap, um DataFrames, Datenbereinigung und Analysetechniken zu verstehen. Durch praktische, nicht-videobasierte Kurse und Übungen in einem interaktiven Datenwissenschafts-Spielplatz sammeln Sie praktische Erfahrungen in der Verarbeitung und Analyse komplexer Datensätze.
+Lernen Sie Pandas für die Datenmanipulation und -analyse in Python mit diesem umfassenden Lernpfad. Diese praxisorientierten Pandas-Kurse wurden für Anfänger entwickelt und bieten einen klaren Fahrplan, um DataFrames, Datenbereinigung und fortgeschrittene Analysetechniken zu beherrschen. Sammeln Sie praktische, reale Erfahrungen durch die Arbeit mit komplexen Datensätzen in interaktiven Übungen in einer Data-Science-Umgebung.
 
 ## Übungen
 
