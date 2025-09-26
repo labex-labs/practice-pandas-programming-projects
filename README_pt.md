@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/qhqKKAjZr3K5.png">
 </div>
 
-Pandas é fundamental para manipulação e análise de dados em Python. Esta Skill Tree oferece um caminho de aprendizado abrangente para dominar Pandas. É perfeito para iniciantes em ciência de dados, fornecendo um roteiro claro para entender DataFrames, limpeza de dados e técnicas de análise. Através de cursos práticos, sem vídeos e exercícios práticos em um playground interativo de ciência de dados, você obterá experiência do mundo real no processamento e análise de conjuntos de dados complexos.
+Aprenda Pandas para manipulação e análise de dados em Python com este caminho de aprendizagem abrangente. Projetados para iniciantes, estes cursos práticos de Pandas fornecem um roteiro claro para dominar DataFrames, limpeza de dados e técnicas avançadas de análise. Ganhe experiência prática e real trabalhando com conjuntos de dados complexos através de exercícios interativos em um ambiente de ciência de dados.
 
 ## Exercícios
 
